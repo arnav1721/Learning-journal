@@ -24,3 +24,4 @@ This repository documents my journey from a complete beginner in programming to 
 - Installed VS Code ✅
 - Installed Git ✅
 - Starting Harvard CS50 🚀
+- Cloned my first GitHub repository to my Mac ✅
